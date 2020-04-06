@@ -1,0 +1,16 @@
+vctrl = 1.477
+w1	= 6u //current starving pmos	
+w2	= 6u //inverter pmos
+w3	= 2u //inverter nmos
+w4 	= 2u //current starving nmos
+
+
+
+-40 > 1.042 GHz
+0	> 1.055 GHz
+40 	> 1.06 GHz
+80	> 1.042 GHz
+120	> 1.042 GHz
+
+27 	> 1.059 GHz
+

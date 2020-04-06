@@ -1,0 +1,5 @@
+SOFTINCLUDE /cad/IC616/share/cdssetup/cds.lib
+DEFINE ssnn_180 /root/Desktop/test/ssnn_180
+DEFINE ssnn_90 /root/Desktop/test/ssnn_90
+DEFINE gmjadc /root/Desktop/test/gmjadc
+DEFINE vco_adc /root/Desktop/vco/vco_adc
