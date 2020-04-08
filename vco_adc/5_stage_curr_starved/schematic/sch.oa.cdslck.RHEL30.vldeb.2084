@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      akhil
+HostName                       vldeb
+ProcessIdentifier              2084
+ProcessCreationTime_UTC        1579075527
+ProcessCreationTime_Readable   Wed Jan 15 13:35:27 2020 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/akhil/projects/cadence/project1/vco_adc/5_stage_curr_starved/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Wed Jan 15 13:36:03 2020 IST

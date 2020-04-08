@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      akhil
+HostName                       vldeb
+ProcessIdentifier              4407
+ProcessCreationTime_UTC        1581523572
+ProcessCreationTime_Readable   Wed Feb 12 21:36:12 2020 IST
+AppIdentifier                  /opt/cadence/IC617/tools/dfII/bin/64bit/libManager
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /home/akhil/cadence/vco/libManager.log
+TimeEditLocked                 Wed Feb 12 21:36:17 2020 IST

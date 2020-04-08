@@ -1,0 +1,1000 @@
+  770  ip a
+  771  ip addr show
+  772  ssh darknem@192.168.18.37
+  773  cd projects/cadence/project1/
+  774  ls
+  775  . .bashrc 
+  776  virtuoso
+  777  exit
+  778  cd projects/cadence/project1/
+  779  virtuoso
+  780  . .bashrc
+  781  virtuoso
+  782  cd projects/cadence/project1/
+  783  . .bashrc 
+  784  virtuoso
+  785  exit
+  786  cd projects/cadence/project1/
+  787  . .bashrc 
+  788  exit
+  789  cd projects/cadence/project1/
+  790  . .bashrc 
+  791  virtuoso
+  792  cd projects/cadence/project1/
+  793  virtuoso
+  794  . .bashrc 
+  795  virtuoso
+  796  exit
+  797  sudo reboot
+  798  ip a
+  799  visudo
+  800  vi sudo
+  801  locate sudoers
+  802  cd /etc
+  803  nano sudoers
+  804  sudo nano sudoers
+  805  cd projects/cadence/project1/
+  806  cd ~/projects/cadence/project1/
+  807  . .bashrc 
+  808  virtuoso
+  809  cd projects
+  810  chmod 777 cadence/
+  811  ls -la
+  812  ip addr show
+  813  lspci
+  814  ip a
+  815  ip a -4
+  816  ip -4 a
+  817  ip a -4
+  818  ip -4 a
+  819  ip a -4
+  820  ip -4 a
+  821  ping darknem
+  822  ping
+  823  ping -I darknem
+  824  ping darknem.local
+  825  hostname -I
+  826  ping darknem.local
+  827  ip -4 a
+  828  ping raspberrypi
+  829  ping raspberrypi.local
+  830  ping debian
+  831  ping raspberrypi
+  832  ping raspberrypi.local
+  833  ip -4 a
+  834  apt install nmap
+  835  sudo apt install nmap
+  836  hostname -I
+  837  nmap -sn 192.16.43.3/50
+  838  nmap -Pn 192.16.43.3/50
+  839  ips
+  840  ip a
+  841  nmap -Pn 192.16.43.3/24
+  842  ip a
+  843  ping raspberrypi.local
+  844  ssh pi@169.254.81.79
+  845  ip a
+  846  hostname -I
+  847  ping manjaro
+  848  ping manjaro.local
+  849  hostname
+  850  hostnamectl
+  851  cd projects/cadence/project1/
+  852  ls
+  853  . .bashrc 
+  854  virtuoso 
+  855  cd projects/cadence/project1/
+  856  . .bashrc 
+  857  virtuoso 
+  858  . .bashrc 
+  859  virtuoso 
+  860  cd projects/cadence/project1/
+  861  . .bashrc 
+  862  virtuoso 
+  863  cd projects/cadence/project1/
+  864  . .bashrc 
+  865  virtuoso 
+  866  sudo apt install lxde
+  867  ps -a
+  868  ps -A
+  869  killall -9 firefox-bin
+  870  killall -9 login
+  871  killall -9 12135
+  872  killall -9 systemd
+  873  sudo killall -9 systemd
+  874  sudo reboot
+  875  cd /home/akhil/ -> ls -la
+  876  cd /home/akhil/ ->ls -la
+  877  cd /home/akhil/->ls -la
+  878  cd /home/akhil/
+  879  su
+  880  cd /home/akhil/
+  881  ls -la
+  882  ls -lah | grep -i Xauthority
+  883  sudo ls -lah /tmp
+  884  sudo chown akhil:akhil .Xauthority
+  885  ls -lah | grep -i Xauthority
+  886  chmod a+rwx .Xauthority 
+  887  sudo apt install lightdm
+  888  dpkg-reconfigure lightdm
+  889  sudo dpkg-reconfigure lightdm
+  890  ~logout
+  891  logout
+  892  sudo dpkg-reconfigure lightdm
+  893  debioski
+  894  sudo dpkg-reconfigure lightdm
+  895  lightdm --show-config
+  896  sudo lightdm --show-config
+  897  LXTerminal
+  898  lxterminal
+  899  cd /etc/ssh/sshd_config
+  900  cd /etc/ssh/
+  901  ls
+  902  nano sshd_config 
+  903  cd projects/cadence/project1/
+  904  . .bashrc 
+  905  virtuoso
+  906  cd projects/cadence/project1/
+  907  . .bashrc 
+  908  virtuoso
+  909  exit
+  910  sudo sw user
+  911  sudo llogiut
+  912  sudo logout
+  913  sudo reboot
+  914  cd /etc/lightdm/
+  915  ls
+  916  sudo nano lightdm
+  917  sudo nano lightdm.conf 
+  918  sudo logout
+  919  cd /etc/lightdm/
+  920  sudo nano lightdm.conf 
+  921  sudo reboot
+  922  dconf reset -f /com/solus-project/budgie-panel/
+  923  nohup budgie-panel -replace
+  924  nohup budgie-panel --replace
+  925  dconf reset -f /com/solus-project/budgie-panel/
+  926  dconf reset -f 
+  927  dconf reset -f /
+  928  cd /etc/NetworkManager/system-connections/
+  929  nano ftp
+  930  nano new
+  931  nano new.nmconnection 
+  932  sudo nano new.nmconnection 
+  933  su
+  934  su
+  935  sudo passwd root
+  936  hostname --h
+  937  hostnamectl --h
+  938  hostnamectl --help
+  939  hostnamectl status
+  940  hostnamectl set-hostname
+  941  hostnamectl set-hostname vldeb
+  942  hostnamectl status
+  943  dolphin
+  944  nautilus
+  945  top
+  946  mpstat -P ALL
+  947  htop
+  948  chrome
+  949  google-chrome
+  950  su
+  951  sudo apt install minicom
+  952  minicom
+  953  minicom -s
+  954  sudo dmesg
+  955  sudo dmesg -wH
+  956  ping raspberrypi
+  957  ping raspberrypi.local
+  958  ssh pi@169.254.32.250
+  959  ssh darknem@192.168.18.45
+  960  ping darknem
+  961  ping manjaro-darknemesis
+  962  ping manjaro-darknemesis.local
+  963  ping manjaro-darknemesis
+  964  sudo nano /etc/ssh/sshd_config 
+  965  ping manjaro-darknemesis
+  966  ping 192.168.18.45
+  967  ping manjaro-darknemesis
+  968  ping 192.168.18.45
+  969  ssh darknem@192.168.18.45
+  970  apt list --installed 
+  971  apt list --installed openssh-client
+  972  -a
+  973  sudo apt upgrade openssh-client
+  974  sudo apt upgrade openssh-server
+  975  ip a
+  976  ping 192.168.18.45
+  977  ssh darknem@192.168.18.45
+  978  locate cadencelib
+  979  locate pdk
+  980  locate cds.lib
+  981  clear
+  982  cd projects/cadence/project1/
+  983  nano cds.lib 
+  984  . .bashrc 
+  985  virtuoso 
+  986  sudo add-apt-repository ppa:morphis/anbox-support
+  987  sudo remove-apt-repository ppa:morphis/anbox-support
+  988  sudo purge-apt-repository ppa:morphis/anbox-support
+  989  sudo nano /etc/sudoers
+  990  sudo nano /etc/apt/sources.list
+  991  sudo add-apt-repository ppa:ubuntubudgie/backports
+  992  sudo apt update && sudo apt install budgie-calendar-applet budgie-brightness-control-applet budgie-screenshot-applet
+  993  sudo apt install budgie-brightness-controller-applet
+  994  sudo snap install wps-office
+  995  wps-office
+  996  sudo snap refresh wps-office
+  997  sudo reboot
+  998  echo $PATH
+  999  export PATH="$PATH:/snap/bin"
+ 1000  echo $PATH
+ 1001  wps-office
+ 1002  sudo snap refresh wps-office
+ 1003  wps-office
+ 1004  sudo reboot
+ 1005  nano /etc/environment
+ 1006  nano .bashrc 
+ 1007  echo $PATH
+ 1008  sudo export PATH="$PATH:/snap/bin"
+ 1009  nano .bashrc 
+ 1010  echo $PATH
+ 1011  snap run wps-office
+ 1012  snap run wps-office.wpp
+ 1013  wps-office
+ 1014  wps-office.wpp
+ 1015  nano .bashrc 
+ 1016  sudo nano /etc/environment
+ 1017  path
+ 1018  echo $PATH
+ 1019  nano /etc/environment
+ 1020  sudo nano /etc/environment
+ 1021  echo $PATH
+ 1022  nano .bashrc 
+ 1023  echo $PATH
+ 1024  export PATH="$PATH:/snap/bin"
+ 1025  echo $PATH
+ 1026  sudo snap refresh wps-office
+ 1027  wps-office
+ 1028  echo $PATH
+ 1029  wps-office
+ 1030  wps-office.et
+ 1031  wps-office.wpp
+ 1032  wps-office.wps
+ 1033  snap
+ 1034  sudo apt install screenfetch
+ 1035  sudo apt update
+ 1036  sudo apt install screenfetch
+ 1037  screenfetch 
+ 1038  screenfetch -h
+ 1039  screenfetch
+ 1040  nano .bashrc
+ 1041  screenfetch -h
+ 1042  screenfetch -w
+ 1043  nano .bashrc
+ 1044  sudo apt remove nemo
+ 1045  cd projects/cadence/project1/
+ 1046  . .bashrc 
+ 1047  virtuoso
+ 1048  /media/akhil/ACCD-554F
+ 1049  cd /media/akhil/ACCD-554F
+ 1050  ls
+ 1051  sudo cp -r FOUNDRY /opt/cadence/
+ 1052  locate /cad
+ 1053  locate /cad/FOUNDRY
+ 1054  locate cad/FOUNDRY
+ 1055  locate FOUNDRY
+ 1056  locate gpdk
+ 1057  su
+ 1058  cd /opt/cadence/FOUNDRY/ls
+ 1059  cd /opt/cadence/FOUNDRY/
+ 1060  ls
+ 1061  locate cds.lib
+ 1062  cp --help 
+ 1063  cd ..
+ 1064  sudo cp -LRv FOUNDRY /opt/cadence/
+ 1065  root
+ 1066  su root
+ 1067  sudo su
+ 1068  sudo cp -LRv FOUNDRY /opt/cadence/
+ 1069  cd /media/
+ 1070  ls
+ 1071  cd akhil/
+ 1072  ls
+ 1073  ls -A
+ 1074  cd projects/cadence/project1/
+ 1075  . .bashrc 
+ 1076  virtuoso
+ 1077  . .bashrc 
+ 1078  virtuoso
+ 1079  cd /opt/cadence/FOUNDRY/analog/180nm/libs.oa.22/gpdk180
+ 1080  cd /opt/cadence/FOUNDRY/analog/180nm/libs.oa.22
+ 1081  cd /opt/cadence/FOUNDRY/analog/180nm/
+ 1082  ls
+ 1083  cd ..
+ 1084  cp -LRv FOUNDRY /opt/cadence/
+ 1085  sudo cp -LRv FOUNDRY /opt/cadence/
+ 1086  cd 
+ 1087  cd projects/cadence/project1/
+ 1088  . .bashrc 
+ 1089  virtuoso 
+ 1090  cmd
+ 1091  ll
+ 1092  ls -l
+ 1093  ll
+ 1094  l
+ 1095  ls -l
+ 1096  wps-office.wps
+ 1097  ping raspberry.local
+ 1098  ping raspberrypi.local
+ 1099  ssh pi@192.168.43.58
+ 1100  ping raspberrypi.local
+ 1101  ssh pi@192.168.43.114
+ 1102  ping raspberrypi.local
+ 1103  ssh pi@192.168.43.114
+ 1104  ping raspberrypi.local
+ 1105  ssh pi@169.254.31.85
+ 1106  cd projects/cadence/project1/
+ 1107  ls
+ 1108  sudo apt-cache
+ 1109  sudo apt-cache search vlc
+ 1110  sudo apt install vld
+ 1111  sudo apt install vlc
+ 1112  vlv
+ 1113  vlc
+ 1114  sudo apt upgrade 
+ 1115  budgie-welcome
+ 1116  nano .bashrc 
+ 1117  uname
+ 1118  uname -h
+ 1119  uname --help 
+ 1120  uname -a
+ 1121  uname -s
+ 1122  uname -
+ 1123  uname -r
+ 1124  uname -v
+ 1125  uname -m
+ 1126  uname -p
+ 1127  uname -i
+ 1128  -
+ 1129  uname -o
+ 1130  nano .bashrc 
+ 1131  eopkg search budgie
+ 1132  sudo snap install ubuntu-budgie-welcome --classic
+ 1133  ubuntu-budgie-welcome.budgie-
+ 1134  ubuntu-budgie-welcome.budgie
+ 1135  ubuntu-budgie-welcome.budgie-welcome 
+ 1136  ubuntu-budgie-welcome.budgie-applets 
+ 1137  ping raspberrypi.local
+ 1138  hostname -I
+ 1139  ping raspberrypi.local
+ 1140  ping raspberrypi
+ 1141  ping raspberrypi.local
+ 1142  sudo apt-cache search balena
+ 1143  sudo apt-cache search etcher
+ 1144  etcher
+ 1145  balena-etcher
+ 1146  echo "deb https://deb.etcher.io stable etcher" | sudo tee /etc/apt/sources.list.d/balena-etcher.list
+ 1147  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 379CE192D401AB61
+ 1148  sudo apt-get update
+ 1149  sudo apt-get install balena-etcher-electron
+ 1150  cd /media/
+ 1151  ls
+ 1152  cd /run/
+ 1153  ls
+ 1154  cd mount/
+ 1155  ls
+ 1156  balena
+ 1157  cd /media/akhil/boot
+ 1158  ls
+ 1159  nano ssh
+ 1160  ping raspberrypi.local
+ 1161  ssh pi@raspberrypi.local
+ 1162  ssh pi@169.254.26.59
+ 1163  ssh pi@raspberrypi.local
+ 1164  ssh pi@169.254.26.59
+ 1165  ping raspberrypi.local
+ 1166  ping rasberrypi
+ 1167  ping rasberrypi.local
+ 1168  ping rasberrypi
+ 1169  ping rasberrypi.local
+ 1170  hostname -I
+ 1171  nmap -sn 169.254.115.130/24
+ 1172  hostname -I
+ 1173  ping rasberrypi.local
+ 1174  hostname -I
+ 1175  nmap -sn 169.254.115.130/24
+ 1176  nmap -sn 169.254.115.0/24
+ 1177  nmap -sn 192.168.18.0/24
+ 1178  ip a
+ 1179  scp -r Flower-Project-master pi@raspberrypi.locall
+ 1180  scp -r Flower-Project-master pi@raspberrypi.local:~/
+ 1181  ls
+ 1182  sudo apt list --manual-installed
+ 1183  diskutil list
+ 1184  sudo apt install diskutil
+ 1185  sudo apt-cache search diskutil
+ 1186  which balena
+ 1187  which balena-etcher
+ 1188  which balena-etcher-electron
+ 1189  balena-etcher-electron 
+ 1190  ping rasberrypi.local
+ 1191  ping raspberrypi.local
+ 1192  ssh pi@raspberrypi.local
+ 1193  ping raspberrypi.local
+ 1194  ssh pi@raspberrypi.local
+ 1195  ping raspberrypi.local
+ 1196  ssh pi@raspberrypi.local
+ 1197  ping google.com
+ 1198  iwlist
+ 1199  sudo iwlist
+ 1200  sudo iwlist accesspoints
+ 1201  sudo iwlist wlp3s0 accesspoints
+ 1202  sudo iwlist wlp3s0 scanning
+ 1203  sudo iwlist scan
+ 1204  nmcli dev wifi
+ 1205  sudo iwlist scan | grep ESSID:
+ 1206  sudo iwlist scan | grep ESSID: | tee -a list
+ 1207  nano list
+ 1208  sudo iwlist wlp3s0 scan | grep ESSID: | tee -a list
+ 1209  sudo iwlist wlp3s0 scan | grep ESSID:
+ 1210  sudo iw wlp3s0 link
+ 1211  sudo iw wlp3s0 scan
+ 1212  echo hdhdsjfijsfjfj > al.txt
+ 1213  ls
+ 1214  nano al.txt 
+ 1215  echo
+ 1216  echo --help
+ 1217  echo 
+ 1218  echo vahvhsd > al.txt 
+ 1219  ls
+ 1220  nano al.txt 
+ 1221  rm al.txt 
+ 1222  ls
+ 1223  nano ls
+ 1224  nano list
+ 1225  nano list.save 
+ 1226  rm list*
+ 1227  ls
+ 1228  sudo apt update
+ 1229  chrome
+ 1230  google-chrome
+ 1231  wps-office.wpp
+ 1232  wps-office.wps
+ 1233  cd projects/
+ 1234  ls
+ 1235  mkdir kernel
+ 1236  cd kernel/
+ 1237  ls
+ 1238  git clone https://github.com/akhilpthekkelanji/Realme3-kernel-source.git
+ 1239  sudo apt install git
+ 1240  git clone https://github.com/akhilpthekkelanji/Realme3-kernel-source.git
+ 1241  ls
+ 1242  cd Realme3-kernel-source/
+ 1243  ls
+ 1244  cd drivers/
+ 1245  ls
+ 1246  cd pwm/
+ 1247  ls
+ 1248  sublime pwm-atmel.c
+ 1249  sublime-text pwm-atmel.c
+ 1250  sudo apt-cache search subl
+ 1251  sublime-text
+ 1252  cmake .
+ 1253  sudo apt install libwds
+ 1254  sudo snap install scrcpy
+ 1255  scrcpy
+ 1256  sudo update-grub
+ 1257  sudo reboot
+ 1258  sudo ugrade-grub
+ 1259  sudo grub update
+ 1260  sudo grub-update
+ 1261  sudo update-grub
+ 1262  sudo grub-install /dev/sda
+ 1263  sudo reboot
+ 1264  ssh root@172.20.200.50
+ 1265  ping 172.20.200.50
+ 1266  ssh root@172.20.200.50
+ 1267  ping 172.20.200.50
+ 1268  [A
+ 1269  ping 172.20.200.50
+ 1270  [A
+ 1271  ping 172.20.200.50
+ 1272  [A
+ 1273  ping 172.20.200.50
+ 1274  sudo apt install gparted
+ 1275  firewall
+ 1276  ping 172.20.200.50
+ 1277  sudo apt update
+ 1278  bashrc
+ 1279  cd ..
+ 1280  ls
+ 1281  cd akhil/
+ 1282  cd ls
+ 1283  ls
+ 1284  cd projects/
+ 1285  ls
+ 1286  cd cadence/
+ 1287  ls
+ 1288  cd project1/
+ 1289  ls
+ 1290  .bashrc
+ 1291  csh
+ 1292  bash
+ 1293  .bash
+ 1294  virtuoso
+ 1295  history
+ 1296  . .bashrc 
+ 1297  virtuoso 
+ 1298  screenfetch
+ 1299  locate libs.oa
+ 1300  . .bashrc 
+ 1301  virtuoso 
+ 1302  . .bashrc 
+ 1303  virtuoso 
+ 1304  . .bashrc 
+ 1305  virtuoso 
+ 1306  locate isi.pdf
+ 1307  cd ~/projects/cadence/project1/vco_adc/
+ 1308  ls
+ 1309  . .bashrc
+ 1310  cd,,
+ 1311  cd ..
+ 1312  . .bashrc 
+ 1313  ls
+ 1314  virtuoso 
+ 1315  cd projects/cadence/project1/
+ 1316  ls
+ 1317  . .bashrc 
+ 1318  virtuoso 
+ 1319  top
+ 1320  . .bashrc 
+ 1321  virtuoso 
+ 1322  zip FOUNDRY/
+ 1323  zip -r FOUNDRY/
+ 1324  zip
+ 1325  zip FOUNDRY
+ 1326  zip -r -q FOUNDRY_backup FOUNDRY/
+ 1327  sudo zip -r -q FOUNDRY_backup FOUNDRY/
+ 1328  cd projects/cadence/project1/
+ 1329  . .bashrc 
+ 1330  virtuoso 
+ 1331  cd projects/cadence/project1/
+ 1332  . .bashrc 
+ 1333  virtuoso 
+ 1334  cd projects/cadence/project1/
+ 1335  . .bashrc 
+ 1336  virtuoso 
+ 1337  cd projects/cadence/project1/
+ 1338  virtuoso 
+ 1339  . .bashrc 
+ 1340  virtuoso 
+ 1341  cat /etc/X11/default-display-manager 
+ 1342  sudo dpkg-reconfigure lightdm
+ 1343  reboot
+ 1344  sudo reboot
+ 1345  cd projects/cadence/project1/
+ 1346  . .bashrc 
+ 1347  virtuoso 
+ 1348  cd projects/cadence/project1/
+ 1349  . .bashrc 
+ 1350  virtuoso 
+ 1351  sudo dpkg-reconfigure lightdm
+ 1352  locate cds.lib
+ 1353  cd projects/cadence/project1/
+ 1354  . .bashrc 
+ 1355  virtuoso 
+ 1356  cd projects/cadence/project1/
+ 1357  . .bashrc 
+ 1358  virtuoso 
+ 1359  . .bashrc 
+ 1360  virtuoso 
+ 1361  . .bashrc 
+ 1362  virtuoso 
+ 1363  . .bashrc 
+ 1364  cd projects/cadence/project1/
+ 1365  . .bashrc 
+ 1366  virtuoso 
+ 1367  . .bashrc 
+ 1368  virtuoso 
+ 1369  . .bashrc 
+ 1370  virtuoso 
+ 1371  sudo apt update
+ 1372  cd projects/cadence/project1/
+ 1373  virtuoso 
+ 1374  . .bashrc 
+ 1375  virtuoso 
+ 1376  cd projects/cadence/project1/
+ 1377  . .bashrc 
+ 1378  virtuoso
+ 1379  . .bashrc 
+ 1380  virtuoso
+ 1381  . .bashrc 
+ 1382  virtuoso
+ 1383  cd gssp-recoll-1.0.0/
+ 1384  ls
+ 1385  ./configure --prefix=/usr
+ 1386  make
+ 1387  sudo make install
+ 1388  ./configure
+ 1389  make
+ 1390  sudo make
+ 1391  cd ..
+ 1392  make
+ 1393  cd ..
+ 1394  /etc/apt/sources.list.d/recoll.list
+ 1395  sudo nano /etc/apt/sources.list.d/recoll.list
+ 1396  sudo apt update 
+ 1397  sudo apt install recoll python-recoll python3-recoll
+ 1398  ./configure 
+ 1399  make
+ 1400  ./configure; make; make install
+ 1401  cd projects/cadence/project1/
+ 1402  . .bashrc 
+ 1403  virtuoso
+ 1404  cd projects/cadence/project1/
+ 1405  . .bashrc 
+ 1406  virtuoso
+ 1407  . .bashrc 
+ 1408  cd projects/cadence/project1/
+ 1409  . .bashrc 
+ 1410  virtuoso
+ 1411  cd projects/cadence/project1/
+ 1412  . .bashrc 
+ 1413  virtuoso
+ 1414  cd projects/cadence/project1/
+ 1415  . .bashrc 
+ 1416  virtuoso
+ 1417  cd projects/cadence/project1/
+ 1418  . .bashrc 
+ 1419  virtuoso
+ 1420  cd projects/cadence/project1/
+ 1421  . .bashrc 
+ 1422  virtuoso
+ 1423  cd projects/cadence/project1/
+ 1424  . .bashrc 
+ 1425  virtuoso
+ 1426  cd projects/cadence/project1/
+ 1427  . .bashrc 
+ 1428  virtuoso
+ 1429  uninstall_wps_office_linux.sh
+ 1430  ./uninstall_wps_office_linux.sh
+ 1431  sudo ./uninstall_wps_office_linux.sh
+ 1432  sudo /uninstall_wps_office_linux.sh
+ 1433  sudo ./uninstall_wps_office_linux
+ 1434  chmod +x uninstall_wps_office_linux.sh
+ 1435  sudo ./uninstall_wps_office_linux
+ 1436  sudo ./uninstall_wps_office_linux.sh
+ 1437  dpkg --list
+ 1438  dpkg --list | grep wpa
+ 1439  dpkg --list | grep wps
+ 1440  sudo apt clean
+ 1441  sudo apt-get clean
+ 1442  sudo apt autoremove 
+ 1443  snap list
+ 1444  sudo snap remove wps-office 
+ 1445  sudo snap remove ubuntu-budgie-welcome 
+ 1446  sudo snap remove anbox 
+ 1447  sudo snap remove scrcpy 
+ 1448  snap list
+ 1449  shashlik
+ 1450  cd Downloads/
+ 1451  ls
+ 1452  opt/shashlik/bin/shashlik-install GHDsports.apk 
+ 1453  /opt/shashlik/bin/shashlik-install GHDsports.apk 
+ 1454  /opt/shashlik/bin/shashlik-uninstall GHDsports.apk 
+ 1455  sudo add-apt-repository ppa:morphis/anbox-support
+ 1456  $ sudo apt update
+ 1457  sudo apt update
+ 1458  sudo add-apt-repository ppa:morphis/anbox-support
+ 1459  sudo apt install linux-headers-generic anbox-modules-dkms
+ 1460  sudo modprobe ashmem_linux
+ 1461  sudo modprobe binder_linux
+ 1462  ls -1 /dev/{ashmem,binder}
+ 1463  cd projects/cadence/project1/
+ 1464  . .bashrc 
+ 1465  virtuoso
+ 1466  sublime 3
+ 1467  sublime3
+ 1468  sublime text
+ 1469  subl
+ 1470  locate ncvlog
+ 1471  locate bale
+ 1472  htop
+ 1473  top
+ 1474  htop
+ 1475  sudo dpkg -i pulse-effects-64bit.deb
+ 1476  sudo apt install python-cairo
+ 1477  sudo apt --fix-broken install
+ 1478  sudo dpkg -i pulse-effects-64bit.deb
+ 1479  sudo apt install -f
+ 1480  top
+ 1481  cd projects/cadence/project1/
+ 1482  . .bashrc 
+ 1483  virtuoso
+ 1484  . .bashrc 
+ 1485  virtu
+ 1486  virtuoso 
+ 1487  . .bashrc 
+ 1488  virtuoso 
+ 1489  cd projects/cadence/project1/
+ 1490  . .bashrc 
+ 1491  virtuoso 
+ 1492  cd projects/cadence/project1/
+ 1493  . .bashrc 
+ 1494  virtuoso 
+ 1495  sudo apt updar
+ 1496  sudo apt update
+ 1497  sudo apt dist-upgrade
+ 1498  sudo apt upgrade
+ 1499  sudo apt --fix-broken install
+ 1500  apt search linux-image
+ 1501  history
+ 1502  sudo nano /etc/apt/sources.list
+ 1503  java -version
+ 1504  sudo nano /etc/apt/sources.list
+ 1505  history > history.txt
+ 1506  sudo tasksel
+ 1507  apt search multi
+ 1508  sudo tasksel
+ 1509  apt search termina
+ 1510  cd projects/cadence/project1/
+ 1511  . .bashrc 
+ 1512  virtuoso 
+ 1513  history
+ 1514  unzip greeter-master.zip 
+ 1515  cd greeter-master/
+ 1516  la
+ 1517  ls
+ 1518  meson build --prefix=/usr
+ 1519  cd ..
+ 1520  git clone https://github.com/elementary/greeter.git
+ 1521  meson build --prefix=/usr
+ 1522  cd greeter
+ 1523  ls
+ 1524  meson build --prefix=/usr
+ 1525  sudo meson build --prefix=/usr
+ 1526  chmod 77 meson
+ 1527  chmod 77 meson.build 
+ 1528  chmod 777 meson
+ 1529  chmod 777 meson.build 
+ 1530  meson build --prefix=/usr
+ 1531  sudo apt install meson
+ 1532  sudo apt install libaccountsservice-dev
+ 1533  sudo add-apt-repository ppa:elementary-os/daily && sudo apt-get update && sudo apt-get install pantheon-greeter elementary-theme fonts-open-sans-elementary fonts-raleway-elementary
+ 1534  meson build --prefix=/usr
+ 1535  sudo apt install valac
+ 1536  meson build --prefix=/usr
+ 1537  sudo apt install gnome-settings-daemon
+ 1538  sudo apt install
+ 1539  sudo apt install libaccountsservice-dev
+ 1540  sudo apt install libgdk-pixbuf2.0-dev
+ 1541  sudo apt install libgranite-dev
+ 1542  sudo apt install
+ 1543  sudo apt install libgtk-3-dev
+ 1544  sudo apt install liblightdm-gobject-1-dev
+ 1545  sudo apt install libmutter
+ 1546  sudo apt install
+ 1547  sudo apt install libwingpanel-2.0-dev
+ 1548  sudo apt install libx11-dev
+ 1549  meson build --prefix=/usr
+ 1550  sudo apt install liblightdm-gobject-1
+ 1551  sudo apt install liblightdm-gobject-1-dev
+ 1552  apt search liblightdm
+ 1553  sudo apt install liblightdm-gobject-1-0
+ 1554  sudo apt install liblightdm-gobject-dev
+ 1555  meson build --prefix=/usr
+ 1556  sudo apt search libmutter
+ 1557  sudo apt search libmutter-3-0
+ 1558  sudo apt install libmutter-3-0
+ 1559  sudo apt install libmutter-3-dev 
+ 1560  meson build --prefix=/usr
+ 1561  sudo apt install libmutter
+ 1562  sudo apt search libmutter
+ 1563  cd build/
+ 1564  ninja
+ 1565  cd ..
+ 1566  ls
+ 1567  cd Programs/
+ 1568  ls
+ 1569  cd ..
+ 1570  cd greeter
+ 1571  meson build --prefix=/usr
+ 1572  meson --reconfigure
+ 1573  ninja
+ 1574  cd build/
+ 1575  ninja
+ 1576  ninja install
+ 1577  $ sudo apt install apt-transport-https software-properties-common wget
+ 1578  sudo apt install apt-transport-https software-properties-common wget
+ 1579  wget https://gandalfn.ovh/debian/pool/main/p/pantheon-debian-repos/pantheon-debian-repos_0.4-0+pantheon+stretch+loki1_all.deb
+ 1580  Testing/Sid
+ 1581  $ wget https://gandalfn.ovh/debian/pool/main/p/pantheon-debian-repos/pantheon-debian-repos_5.0-0+pantheon+buster+juno1_all.deb
+ 1582  Next, install the package with dpkg.
+ 1583  Stable
+ 1584  $ sudo dpkg -i pantheon-debian-repos_0.4-0+pantheon+stretch+loki1_all.deb
+ 1585  Testing/Sid
+ 1586  $ sudo dpkg -i pantheon-debian-repos_5.0-0+pantheon+buster+juno1_all.deb
+ 1587  Update Apt to include the new repository
+ 1588  $ sudo apt update
+ 1589  How to Install Pantheon
+ 1590  You’re ready to install Pantheon on Debian. You have two options here. You can install the complete Pantheon with the greeter, or you can install only the desktop environment. Which is entirely up to you.
+ 1591  Install Pantheon Desktop on Debian
+ 1592  Install Pantheon Desktop on Debian.
+ 1593  Full Desktop
+ 1594  $ sudo apt install pantheon
+ 1595  Just The Desktop
+ 1596  $ sudo apt install pantheon-shell
+ 1597  How to Install Pantheon Extras
+ 1598  There are also tools available for customization and integration. These come straight from Elementary, but they’ve been rebuilt for Debian. None of these are mandatory, but they’ll help polish the desktop.
+ 1599  $ sudo apt install elementary-tweaks indicator-application indicator-systemtray-unity indicator-multiload
+ 1600  Log in to Pantheon Desktop on Debian
+ 1601  Log in to Pantheon Desktop on Debian.
+ 1602  When you’re ready to use Pantheon, reboot Debian, and select Pantheon at the login screen. Pantheon will open up to the default configuration. If you installed the elementary-tweaks package, you can easily customize it.
+ 1603  Conclusion
+ 1604  Your new Pantheon desktop will continue to update from the repositories. When a new Debian or Elementary release arrives, it would be a good idea to check for updated or new repositories for the latest versons of Pantheon.
+ 1605  ARE YOU LOOKING FOR A LINUX JOB?
+ 1606  Submit your RESUME, create a JOB ALERT or subscribe to RSS feed on LinuxCareers.com.
+ 1607  LINUX CAREER NEWSLETTER
+ 1608  Subscribe to NEWSLETTER and receive latest news, jobs, career advice and tutorials.
+ 1609  DO YOU NEED ADDITIONAL HELP?
+ 1610  Get extra help by visiting our LINUX FORUM or simply use comments below.
+ 1611  You may also be interested in:
+ 1612  Comments and Discussions
+ 1613  wget https://gandalfn.ovh/debian/pool/main/p/pantheon-debian-repos/pantheon-debian-repos_0.4-0+pantheon+stretch+loki1_all.deb
+ 1614  Testing/Sid
+ 1615  $ wget https://gandalfn.ovh/debian/pool/main/p/pantheon-debian-repos/pantheon-debian-repos_5.0-0+pantheon+buster+juno1_all.deb
+ 1616  Next, install the package with dpkg.
+ 1617  Stable
+ 1618  $ sudo dpkg -i pantheon-debian-repos_0.4-0+pantheon+stretch+loki1_all.deb
+ 1619  Testing/Sid
+ 1620  $ sudo dpkg -i pantheon-debian-repos_5.0-0+pantheon+buster+juno1_all.deb
+ 1621  Update Apt to include the new repository
+ 1622  $ sudo apt update
+ 1623  How to Install Pantheon
+ 1624  You’re ready to install Pantheon on Debian. You have two options here. You can install the complete Pantheon with the greeter, or you can install only the desktop environment. Which is entirely up to you.
+ 1625  Install Pantheon Desktop on Debian
+ 1626  Install Pantheon Desktop on Debian.
+ 1627  Full Desktop
+ 1628  $ sudo apt install pantheon
+ 1629  Just The Desktop
+ 1630  $ sudo apt install pantheon-shell
+ 1631  How to Install Pantheon Extras
+ 1632  There are also tools available for customization and integration. These come straight from Elementary, but they’ve been rebuilt for Debian. None of these are mandatory, but they’ll help polish the desktop.
+ 1633  $ sudo apt install elementary-tweaks indicator-application indicator-systemtray-unity indicator-multiload
+ 1634  Log in to Pantheon Desktop on Debian
+ 1635  Log in to Pantheon Desktop on Debian.
+ 1636  When you’re ready to use Pantheon, reboot Debian, and select Pantheon at the login screen. Pantheon will open up to the default configuration. If you installed the elementary-tweaks package, you can easily customize it.
+ 1637  Conclusion
+ 1638  Your new Pantheon desktop will continue to update from the repositories. When a new Debian or Elementary release arrives, it would be a good idea to check for updated or new repositories for the latest versons of Pantheon.
+ 1639  ARE YOU LOOKING FOR A LINUX JOB?
+ 1640  Submit your RESUME, create a JOB ALERT or subscribe to RSS feed on LinuxCareers.com.
+ 1641  LINUX CAREER NEWSLETTER
+ 1642  Subscribe to NEWSLETTER and receive latest news, jobs, career advice and tutorials.
+ 1643  DO YOU NEED ADDITIONAL HELP?
+ 1644  Get extra help by visiting our LINUX FORUM or simply use comments below.
+ 1645  You may also be interested in:
+ 1646  Comments and Discussions
+ 1647  wget https://gandalfn.ovh/debian/pool/main/p/pantheon-debian-repos/pantheon-debian-repos_0.4-0+pantheon+stretch+loki1_all.deb
+ 1648  wget https://gandalfn.ovh/debian/pool/main/p/pantheon-debian-repos/pantheon-debian-repos_5.0-0+pantheon+buster+juno1_all.deb
+ 1649  sudo dpkg -i pantheon-debian-repos_0.4-0+pantheon+stretch+loki1_all.deb
+ 1650  sudo dpkg -i pantheon-debian-repos_5.0-0+pantheon+buster+juno1_all.deb
+ 1651  \$ sudo apt update
+ 1652  sudo apt install pantheon
+ 1653  sudo apt install lightdm-webkit2-greeter
+ 1654  cd /usr/share/light
+ 1655  sudo apt search lightdm
+ 1656  sudo apt install pantheon-greeter
+ 1657  dpkg -i libmutter-4-0_3.32.0+git20190410-1ubuntu1_amd64.deb 
+ 1658  sudo dpkg -i libmutter-4-0_3.32.0+git20190410-1ubuntu1_amd64.deb 
+ 1659  sudo dpkg-reconfigure lightdm
+ 1660  sudo apt install lightdm
+ 1661  dpkg-reconfigure lightdm
+ 1662  sudo dpkg-reconfigure lightdm
+ 1663  reboot
+ 1664  sudo reboot
+ 1665  sudo apt update 
+ 1666  sudo apt install light
+ 1667  sudo dpkg-reconfigure lightdm
+ 1668  lightdm --show-config
+ 1669  sudo lightdm --show-config
+ 1670  apt search lightdm
+ 1671  sudo apt install pantheon-greeter
+ 1672  lightdm --show-config
+ 1673  sudo lightdm --show-config
+ 1674  sudo nano /usr/share/lightdm/lightdm.conf.d/40-io.elementary.greeter.conf
+ 1675  sudo nano /usr/share/lightdm/lightdm.conf.d/01_debian.conf
+ 1676  sudo rm /usr/share/lightdm/lightdm.conf.d/40-io.elementary.greeter.conf
+ 1677  sudo dpkg-reconfigure lightdm
+ 1678  sudo lightdm --show-config
+ 1679  sudo nano /usr/share/lightdm/lightdm.conf.d/01_debian.conf
+ 1680  sudo lightdm --show-config
+ 1681  sudo nano /usr/share/lightdm/lightdm.conf.d/01_debian.conf
+ 1682  sudo lightdm --show-config
+ 1683  sudo dpkg-reconfigure lightdm
+ 1684  sudo apt install lightdm-webkit-greeter
+ 1685  sudo apt install lightdm-gtk-greeter
+ 1686  sudo nano /usr/share/lightdm/lightdm.conf.d/01_debian.conf
+ 1687  sudo reboot
+ 1688  cd Downloads/
+ 1689  dpkg -i lightdm-webkit-greeter_0.1.2-0ubuntu4_amd64.deb 
+ 1690  sudo dpkg -i lightdm-webkit-greeter_0.1.2-0ubuntu4_amd64.deb 
+ 1691  sudo apt install libjavascriptcoregtk-1.0-0
+ 1692  sudo apt install libjavascriptcoregtk
+ 1693  sudo apt install libjavascriptcoregtk-1.0-0
+ 1694  echo 'deb http://download.opensuse.org/repositories/home:/antergos/Debian_9.0/ /' > /etc/apt/sources.list.d/home:antergos.list
+ 1695  sudo echo 'deb http://download.opensuse.org/repositories/home:/antergos/Debian_9.0/ /' > /etc/apt/sources.list.d/home:antergos.list
+ 1696  su
+ 1697  lightdm --show-config
+ 1698  sudo lightdm --show-config
+ 1699  sudo nano /usr/share/lightdm/lightdm.conf.d/01_debian.conf
+ 1700  lightdm --show-config
+ 1701  sudo lightdm --show-config
+ 1702  lightdm --test-mode --debug
+ 1703  sudo lightdm --test-mode --debug
+ 1704  sudo lightdm --test-mode --debug
+ 1705  su
+ 1706  debian1
+ 1707  su
+ 1708  sudo reboot
+ 1709  cd /usr/share/lightdm-webkit/themes
+ 1710  ls
+ 1711  cd material/
+ 1712  ls
+ 1713  cd ..
+ 1714  cd ~/Donloads
+ 1715  cd ~/Downloads
+ 1716  ls
+ 1717  gtar lightdm-webkit-theme-litarvan-3.0.0.tar.gz 
+ 1718  tar lightdm-webkit-theme-litarvan-3.0.0.tar.gz /usr/share/lightdm-webkit/themes/litarvan
+ 1719  tar --help
+ 1720  tar -f lightdm-webkit-theme-litarvan-3.0.0.tar.gz /usr/share/lightdm-webkit/themes/litarvan
+ 1721  sudo mv -r ~/Downloads/litarvan /usr/share/lightdm-webkit/themes
+ 1722  sudo mv  ~/Downloads/litarvan /usr/share/lightdm-webkit/themes
+ 1723  cd usr/share/lightdm-webkit/themes
+ 1724  cd /usr/share/lightdm-webkit/themes
+ 1725  ls
+ 1726  cd litarvan/
+ 1727  ls
+ 1728  cd ..
+ 1729  cd /usr/share/lightdm-webkit/
+ 1730  ld
+ 1731  ls
+ 1732  cd /etc/lightdm/
+ 1733  ls
+ 1734  sudo nano lightdm-webkit2-greeter.conf 
+ 1735  sudo reboot
+ 1736  cd projects/cadence/project1/
+ 1737  . .bashrc 
+ 1738  virtuoso
+ 1739  . .bashrc 
+ 1740  cd projects/cadence/project1/
+ 1741  . .bashrc 
+ 1742  virtuoso
+ 1743  sudo apt install xfce
+ 1744  sudo apt install xubuntu-desktop
+ 1745  sudo tasksel
+ 1746  sudo apt install xserver-xorg-input-synaptics
+ 1747  cd projects/cadence/project1/
+ 1748  . .bashrc 
+ 1749  virtuoso
+ 1750  sudo tasksel
+ 1751  cd projects/cadence/project1/
+ 1752  . .bashrc 
+ 1753  virtuoso
+ 1754  sudo nano /etc/apt/sources.list
+ 1755  sudo apt update
+ 1756  sudo apt upgrade
+ 1757  screenfetch 
+ 1758  screenfetch
+ 1759  cd projects/cadence/project1/
+ 1760  . .bashrc 
+ 1761  virtuoso
+ 1762  cd projects/cadence/project1/
+ 1763  . .bashrc 
+ 1764  virtuoso
+ 1765  cd projects/cadence/project1/
+ 1766  . .bashrc 
+ 1767  virtuoso
+ 1768  cd projects/cadence/project1/
+ 1769  history > history.txt

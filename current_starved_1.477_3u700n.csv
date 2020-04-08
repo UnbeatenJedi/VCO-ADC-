@@ -1,0 +1,2 @@
+Expression ,Value,Expression ,Value,Expression ,Value,Expression ,Value,Expression ,Value
+frequency(value(getData("/vout" ?result "tran") "temp" -40)),1.075E9,frequency(value(getData("/vout" ?result "tran") "temp" 0)),1.083E9,frequency(value(getData("/vout" ?result "tran") "temp" 40)),1.082E9,frequency(value(getData("/vout" ?result "tran") "temp" 80)),1.076E9,frequency(value(getData("/vout" ?result "tran") "temp" 120)),1.065E9

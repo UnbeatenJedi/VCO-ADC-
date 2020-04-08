@@ -1,0 +1,16 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 6.1.7 - CAT35 10/18/2015 00:07 (sjfnl678) $
+\o Sub version:		sub-version  p009 
+\o Arguments:		-cdslib /home/akhil/cadence/vco/cds.lib -mpssession virtuoso4271 -mpshost vldeb 
+\o Working Directory:	vldeb:/home/akhil/cadence/vco
+\o 64-bit offsets
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		4.8.5
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 0 0)
+\o Active cell: 0 0 "cdsDefTechLib"
+\a nrResizeWindow(cdsLibEditor list(413 153 500 400))
+\a cdsLibEditor->viewFullPathsButton->value = t
+\a nrResizeWindow(cdsLibEditor list(413 153 794 400))
+\a cdsLibEditor->fileExitButton->value = t
+\a nrSetWindowVisibility(cdsLibEditor "hide")
+\a exit(0)

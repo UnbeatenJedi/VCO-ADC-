@@ -1,0 +1,6 @@
+//Verilog HDL for "akhil", "counter" "functional"
+
+
+module counter ( );
+
+endmodule

@@ -1,0 +1,13 @@
+# File Created by DarkNemesis,, at Wed Jan 15 11:54:28 2020
+# assisted by CdsLibEditor
+SOFTINCLUDE /opt/cadence/IC617/share/cdssetup/cds.lib
+
+DEFINE akhil /home/kala/Project/akhil
+DEFINE vco#2dadc /home/kala/Project/vco#2dadc
+DEFINE vco_adc /home/kala/Project/vco_adc
+DEFINE vco_adc2 /home/kala/Project/vco_adc2
+DEFINE digitalpart /home/kala/Project/digitalpart
+#Removed by ddDeleteObj: DEFINE digitalpart2 /home/kala/Project/digitalpart/subtractor/functional/digitalpart2
+#Removed by ddDeleteObj: DEFINE tutorial /home/kala/Project/tutorial
+DEFINE tutorial /home/kala/Project/tutorial
+DEFINE diffring_1 /home/kala/Project/diffring_1

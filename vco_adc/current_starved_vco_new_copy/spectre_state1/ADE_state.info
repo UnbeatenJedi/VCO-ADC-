@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("vco_adc" "current_starved_vco_new_copy" "schematic" "spectre")
+descriptionText = "None"

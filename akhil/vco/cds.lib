@@ -1,0 +1,19 @@
+# File Created by Akhil P,,, at Tue Feb  4 22:40:05 2020
+# assisted by CdsLibEditor
+SOFTINCLUDE /opt/cadence/IC617/share/cdssetup/dfII/cds.lib
+SOFTINCLUDE /opt/cadence/IC617/share/cdssetup/hdl/cds.lib
+SOFTINCLUDE /opt/cadence/IC617/share/cdssetup/pic/cds.lib
+SOFTINCLUDE /opt/cadence/IC617/share/cdssetup/sg/cds.lib
+#DEFINE analogLIb $CDSHOME/tools/dfII/etc/cdslib/artist/analogLib
+#DEFINE basic $CDSHOME/tools/dfII/etc/cdslib/basic
+#DEFINE cdsDefTechLib $CDSHOME/tools/dfII/etc/cdsDefTechLib
+DEFINE sample $CDSHOME/tools/dfII/samples/cdslib/sample
+#DEFINE US_8ths $CDSHOME/tools/dfII/etc/cdslib/sheets/US_8ths
+#DEFINE functional $CDSHOME/tools/dfII/etc/cdslib/artist/functional
+
+DEFINE gpdk090 $GPDK/gpdk090/libs.oa22/gpdk090
+DEFINE substrateLib $GPDK/gpdk180/libs.oa22/substrateLib
+DEFINE gpdk180 $GPDK/gpdk180/libs.oa22/gpdk180
+DEFINE gpdk045 $GPDK/gpdk045/gpdk045
+DEFINE vco_adc /home/kala/Project/akhil/vco/vco_adc
+

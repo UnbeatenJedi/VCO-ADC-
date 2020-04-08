@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kala
+HostName                       kala
+ProcessIdentifier              2093
+ProcessCreationTime_UTC        1583163459
+ProcessCreationTime_Readable   Mon Mar  2 21:07:39 2020 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/kala/Project/vco_adc2/ak_test3/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Mar  2 22:23:05 2020 IST
